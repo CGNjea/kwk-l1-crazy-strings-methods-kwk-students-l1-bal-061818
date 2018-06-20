@@ -1,5 +1,6 @@
-# write your method here
+hola = "Hello Friends"
+
 
 def crazy_strings(a,b)
-
+  
 end
